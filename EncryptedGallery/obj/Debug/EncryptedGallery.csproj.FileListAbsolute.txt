@@ -1,0 +1,29 @@
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.Properties.Resources.resources
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.csproj.GenerateResource.Cache
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\bin\Debug\EncryptedGallery.exe.config
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\bin\Debug\EncryptedGallery.exe
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\bin\Debug\EncryptedGallery.pdb
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.exe
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.pdb
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\ImageEditor.Editor.resources
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\bin\Debug\MaterialSkin.dll
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.csprojResolveAssemblyReference.cache
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\GalleryApplication.EncryptPicture.resources
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.Login.resources
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.SignUp.resources
+C:\Users\Bhuvanesh\Documents\Visual Studio 2017\Projects\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.SplashScreen.resources
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\bin\Debug\EncryptedGallery.exe.config
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\bin\Debug\EncryptedGallery.exe
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\bin\Debug\EncryptedGallery.pdb
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\bin\Debug\MaterialSkin.dll
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.csprojResolveAssemblyReference.cache
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\ImageEditor.Editor.resources
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\GalleryApplication.EncryptPicture.resources
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.Login.resources
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.Properties.Resources.resources
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.SignUp.resources
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.SplashScreen.resources
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.csproj.GenerateResource.Cache
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.exe
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\EncryptedGallery.pdb
+C:\Users\Bhuvanesh\Documents\EncryptedGallery\EncryptedGallery\obj\Debug\ShanuImageFolderView.Form1.resources
